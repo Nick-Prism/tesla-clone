@@ -1,0 +1,54 @@
+.
+├── README.md
+├── bun.lockb
+├── components.json
+├── database.types.ts
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── pnpm-lock.yaml
+├── postcss.config.js
+├── public
+│   ├── favicon.ico
+│   ├── placeholder.svg
+│   └── robots.txt
+├── src
+│   ├── App.css
+│   ├── App.tsx
+│   ├── components
+│   │   ├── HeroSection.tsx
+│   │   ├── Navbar.tsx
+│   │   ├── ProductCard.tsx
+│   │   └── ui
+│   ├── hooks
+│   │   ├── use-mobile.tsx
+│   │   ├── use-toast.ts
+│   │   ├── useAuth.tsx
+│   │   ├── useOrders.ts
+│   │   └── useProducts.ts
+│   ├── index.css
+│   ├── integrations
+│   │   └── supabase
+│   ├── lib
+│   │   └── utils.ts
+│   ├── main.tsx
+│   ├── pages
+│   │   ├── Auth.tsx
+│   │   ├── Index.tsx
+│   │   ├── NotFound.tsx
+│   │   ├── Orders.tsx
+│   │   ├── ProductDetail.tsx
+│   │   └── Products.tsx
+│   └── vite-env.d.ts
+├── structure.txt
+├── supabase
+│   └── config.toml
+├── tailwind.config.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+└── yarn.lock
+
+10 directories, 41 files
