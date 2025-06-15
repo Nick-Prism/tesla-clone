@@ -1,8 +1,6 @@
 # ⚡ Tesla-Inspired Full Stack Product Showcase
 
-A premium, animated, and full-stack Tesla clone site built for **Assignment-Based Evaluation** — developed under time constraints using modern frontend and backend stacks, powered with AI assistance (ChatGPT + Copilot).
-
-![screenshot](./public/assets/tesla-clone-preview.jpg)
+A premium, animated, and full-stack Tesla clone site built for **Assignment-Based Evaluation** — developed under time constraints using modern frontend and backend stacks, powered with AI assistance (ChatGPT + Copilot + Calude 4.0 + Lovable.ai).
 
 ---
 
@@ -63,7 +61,7 @@ All code was written originally with assistance — no direct cloning or scrapin
 | Backend      | Supabase               |
 | Database     | Supabase PostgreSQL    |
 | Auth         | Supabase Auth          |
-| Deployment   | Vercel (Frontend) / Supabase (Backend)
+| Deployment   | Netlify (Frontend) / Supabase (Backend)
 
 ---
 
