@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⚡ Tesla-Inspired Full Stack Product Showcase
 
 A premium, animated, and full-stack Tesla clone site built for **Assignment-Based Evaluation** — developed under time constraints using modern frontend and backend stacks, powered with AI assistance (ChatGPT + Copilot + Calude 4.0 + Lovable.ai).
